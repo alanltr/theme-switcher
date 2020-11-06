@@ -1,0 +1,12 @@
+body, html {
+    background-color: lightgrey;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav a {
+    color: black;
+}
+
