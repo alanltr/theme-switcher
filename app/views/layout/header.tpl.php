@@ -32,4 +32,4 @@
 
         </nav>
     </header>
-    <?php dump($viewVars, $_SERVER) ?>
+ 
